@@ -4,12 +4,14 @@ e um navegador nesse mundo DEV 🥰
 Estou atualmente interessado em:
 - Ruby
 - Vue.js
+- Data Engineering
 
 Aprendendo sobre:
 - C
 - Git(Sempre)
 - Python
 - Javascript e React
+- Data Engineering(Curso Databricks)
 
 Já tenho alguns conhecimentos sobre:
 - HTML e CSS
