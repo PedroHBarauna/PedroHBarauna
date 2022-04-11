@@ -1,17 +1,13 @@
-Eii! Bem vindo! Meu nome é Pedro Henrique Barauna sou técnico em informática para a internet, atualmente, estudante de Ciência e Tecnologia na UNIFESP
-e um navegador nesse mundo DEV 🥰
+Eii! Bem vindo! Meu nome é Pedro Henrique Barauna sou técnico em informática para a internet, atualmente, estudante de Ciência e Tecnologia na UNIFESP 🥰
 
 Estou atualmente interessado em:
-- Ruby
+- React e Node.js
 - Vue.js
-- Data Engineering
 
 Aprendendo sobre:
-- C
-- Git(Sempre)
-- Python
+- Estrutura de Dados
+- Git
 - Javascript e React
-- Data Engineering(Curso Databricks)
 
 Já tenho alguns conhecimentos sobre:
 - HTML e CSS
