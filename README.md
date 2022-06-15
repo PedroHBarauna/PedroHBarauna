@@ -6,8 +6,7 @@ Estou atualmente interessado em:
 
 Aprendendo sobre:
 - Estrutura de Dados
-- Git
-- Javascript e React
+- Javascript, React e Angular
 
 Já tenho alguns conhecimentos sobre:
 - HTML e CSS
