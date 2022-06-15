@@ -1,8 +1,10 @@
 Eii! Bem vindo! Meu nome é Pedro Henrique Barauna sou técnico em informática para a internet, atualmente, estudante de Ciência e Tecnologia na UNIFESP 🥰
 
 Estou atualmente interessado em:
-- React e Node.js
-- Vue.js
+- Angular
+- React
+- Java
+- C#
 
 Aprendendo sobre:
 - Estrutura de Dados
