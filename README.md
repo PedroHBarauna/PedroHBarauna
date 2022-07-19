@@ -1,8 +1,7 @@
-Eii! Bem vindo! Meu nome é Pedro Henrique Barauna sou técnico em informática para a internet, atualmente, estudante de Ciência e Tecnologia na UNIFESP 🥰
+Eii! Bem vindo! Meu nome é Pedro Henrique Barauna sou técnico em informática para a internet, atualmente, estudante de Ciência e Tecnologia na UNIFESP
 
 Estou atualmente interessado em:
 - Angular
-- React
 - Java
 - C#
 
@@ -12,8 +11,7 @@ Aprendendo sobre:
 
 Já tenho alguns conhecimentos sobre:
 - HTML e CSS
-- PHP
-- MySQL
+- Javascript
 
 Minhas redes:
 - Twitter: @pp_the_warrior
