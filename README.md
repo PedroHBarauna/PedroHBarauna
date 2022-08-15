@@ -1,17 +1,19 @@
 Eii! Bem vindo! Meu nome é Pedro Henrique Barauna sou técnico em informática para a internet, atualmente, estudante de Ciência e Tecnologia na UNIFESP
 
 Estou atualmente interessado em:
-- Angular
+- React
+- Node.js
 - Java
-- C#
 
 Aprendendo sobre:
 - Estrutura de Dados
-- Javascript, Angular e Java
+- Node.js, React
 
 Já tenho alguns conhecimentos sobre:
 - HTML e CSS
 - Javascript
+- React, Angular
+- Node, Java
 
 Minhas redes:
 - Twitter: @pp_the_warrior
