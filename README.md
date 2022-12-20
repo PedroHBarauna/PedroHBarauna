@@ -15,6 +15,13 @@ Já tenho alguns conhecimentos sobre:
 - React, Angular
 - Node, Java
 
+Trabalhando com:
+
+- Node.js
+- AWS
+- Docker
+- Scrum
+
 Minhas redes:
 - Twitter: @pp_the_warrior
 - LinkedIn: https://www.linkedin.com/in/pedro-barauna-759a3086/
