@@ -23,4 +23,4 @@ Trabalhando com:
 
 Minhas redes:
 - Twitter: @pp_the_warrior
-- LinkedIn: https://www.linkedin.com/in/pedro-barauna-759a3086/
+- LinkedIn: https://www.linkedin.com/in/pedro-barauna/
