@@ -3,21 +3,20 @@ Eii! Bem vindo! Meu nome é Pedro Henrique Barauna sou técnico em informática 
 Estou atualmente interessado em:
 - React
 - Node.js
-- Java
+- Nest.js
 
 Aprendendo sobre:
 - Estrutura de Dados
-- Node.js, React
+- Node.js, Nest.js
 
-Já tenho alguns conhecimentos sobre:
-- HTML e CSS
-- Javascript
+Tenho alguns conhecimentos sobre:
 - React, Angular
-- Node, Java
+- Java
 
 Trabalhando com:
 
-- Node.js
+- Node.js, Nest.js
+- TypeScript
 - AWS
 - Docker
 - Scrum
