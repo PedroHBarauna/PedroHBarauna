@@ -1,25 +1,22 @@
-Eii! Bem vindo! Meu nome é Pedro Henrique Barauna sou técnico em informática para a internet, atualmente, estudante de Ciência e Tecnologia na UNIFESP
+Eii! Bem vindo! Meu nome é Pedro Henrique Barauna sou Desenvolvedor Back-end(futuro fullstack), atualmente, estudante de Ciência e Tecnologia na UNIFESP!
 
 Estou atualmente interessado em:
-- React
-- Node.js
-- Nest.js
+- Front-end
+- DevOps
 
 Aprendendo sobre:
-- Estrutura de Dados
-- Node.js, Nest.js
-
-Tenho alguns conhecimentos sobre:
-- React, Angular
-- Java
+- AWS
+- Docker
+- Next.js
+- Remix
+- Blockchain
 
 Trabalhando com:
 
-- Node.js, Nest.js
+- React, Node.js, Next.js, Nest.js
 - TypeScript
 - AWS
 - Docker
-- Scrum
 
 Minhas redes:
 - Twitter: @pp_the_warrior
