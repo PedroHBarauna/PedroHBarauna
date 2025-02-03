@@ -16,8 +16,8 @@ Trabalhando com:
 - React, Node.js, Next.js, Nest.js
 - TypeScript
 - AWS
+- Terraform
 - Docker
 
 Minhas redes:
-- Twitter: @pp_the_warrior
 - LinkedIn: https://www.linkedin.com/in/pedro-barauna/
